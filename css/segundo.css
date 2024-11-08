@@ -1,0 +1,17 @@
+.row{
+    background-color: rgb(192, 158, 223);
+}
+
+.columna-principal{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    border: 3px solid rgb(0, 0, 0);
+}
+
+.columna-interna{
+    background-color: rgb(155, 227, 252);
+    color: rgb(0, 0, 0);
+    border: 3px solid rgb(0, 0, 0);
+    padding: 10px;
+}
